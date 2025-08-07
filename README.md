@@ -38,6 +38,7 @@ Folder: `sprint-02-pim`
 
 Anna – aspiring QA tester at the beginning of my journey in manual testing.
 Learning through real-world practice.
+
 **Note:** This project is part of my learning journey in manual testing. Feedback is welcome!
 
 ---
