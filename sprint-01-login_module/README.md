@@ -1,4 +1,4 @@
-# 🧪 QA Project – Sprint 1: Login Functionality Testing (OrangeHRM)
+# QA Project – Sprint 1: Login Functionality Testing (OrangeHRM)
 
 ## Welcome
 This repository documents the full QA process for testing the **login functionality of the OrangeHRM web application**.
