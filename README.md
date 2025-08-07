@@ -5,7 +5,6 @@ This repository is where I explore the world of manual testing — trying out re
 following real workflows, and learning a ton along the way (including how to stay calm when things break 😮)
 
 I use Jira + Xray to manage my test cases and track executions (still learning how to deal with Jira - we’re in a love-hate relationship)
----
 
 ## Projects Included
 
