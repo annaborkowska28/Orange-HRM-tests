@@ -25,12 +25,6 @@ Ensure that the login feature in OrangeHRM behaves correctly under various condi
 - HTML injection
 
 
-## Tools Used
-- **Jira** – for managing epics, stories, and bugs
-- **Xray** – for test case creation and execution
-- **Markdown** – for documentation
-- **GitHub** – for version control and portfolio presentation
-
 ## Repository Structure
 
 ```plaintext
@@ -47,9 +41,3 @@ README.md
 - test-execution-report.md – Results of executed tests
 
 
-##  Author
-
-Anna – aspiring QA tester at the beginning of my journey in manual testing.
-Learning through real-world practice.
-
-**Note:** This project is part of my learning journey in manual testing. Feedback is welcome!

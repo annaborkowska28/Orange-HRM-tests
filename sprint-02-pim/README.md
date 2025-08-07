@@ -31,14 +31,6 @@ Ensure that the Employee Management feature allows for complete and accurate han
 
 ---
 
-## Tools Used
-- **Jira** – for managing epics, stories, and bugs
-- **Xray** – for test case creation and execution
-- **Markdown** – for documentation
-- **GitHub** – for version control and portfolio presentation
-
----
-
 ## Repository Structure
 
 ```plaintext
