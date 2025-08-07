@@ -1,9 +1,11 @@
 # QA Project – Sprint 1: Login Functionality Testing (OrangeHRM)
 
 ## Welcome
-This repository documents the full QA process for testing the **login functionality of the OrangeHRM web application**.
-It includes test planning and test execution,  — all based on real-world practices using Jira + Xray.
 
+
+This folder contains the full QA process for testing the **login functionality** of the OrangeHRM web app.  
+I designed and executed test cases to check how the system handles correct, incorrect, and edge-case credentials
+— all managed through **Jira + Xray**.
 ---
 
 ## Application Under Test

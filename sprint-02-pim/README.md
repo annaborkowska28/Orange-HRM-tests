@@ -1,10 +1,9 @@
 # QA Project – Sprint 2: PIM Module Testing (OrangeHRM)
 
 ## Welcome
-This folder documents the QA process for testing the **Employee Management feature** within the PIM module of the OrangeHRM web application.
-
-It includes test planning, execution results, and links to Jira artifacts — all based on real-world manual testing practices using Jira + Xray.
-
+This folder documents my testing of the **PIM module** — where HR magic happens.
+I created and ran test cases for CRUD operations. 
+All test planning and execution was done using **Jira + Xray**
 ---
 
 ## Application Under Test
